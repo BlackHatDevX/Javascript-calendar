@@ -5,6 +5,8 @@ This is a simple web application called "JavaScript Calendar" that displays the 
 
 ## Demo Site
 https://javascript-calendar.onrender.com/
+![IMG_20230720_070208](https://github.com/BlackHatDevX/Javascript-calendar/assets/91268029/00d326ea-aa9e-4841-9d57-e1fa3c6712f7)
+
 
 ## Usage
 To use the JavaScript Calendar web app, follow these steps:
